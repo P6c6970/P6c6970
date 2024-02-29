@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P6c6970&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P6c6970&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=P6c6970&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
