@@ -2,8 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P6c6970&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=P6c6970&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/P6c6970?border=0&radius=20)](https://leetcode.com/P6c6970/)
 <!--
 **P6c6970/P6c6970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
